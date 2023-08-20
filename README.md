@@ -37,6 +37,8 @@ Launch a terminal and navigate to the project directory.
 Run the script to generate a report:
 python openvas_report_bot.py
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 The script uses the OpenVAS API to interact with the OpenVAS server. Ensure that the API URL and credentials are accurate.
 This project is a basic example and might require adjustments for your specific use case.
